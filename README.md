@@ -16,7 +16,7 @@ The implementation evolves in three parts:
 
 - Part 3: Shots and game progress tracking
 
-## 🧠** Design Goals**
+## 🧠 **Design Goals**
 
 - Clean object-oriented modeling
 
@@ -128,7 +128,7 @@ Responsibilities:
 
 - No extra output is allowed unless explicitly required.
 
-## 🖥 Exercise 2.2 – Display & Arrangement Rules
+## 🖥 Display & Arrangement Rules
 - Display
 
 - Render both grids side-by-side
@@ -202,13 +202,13 @@ Detects whether a ship has been sunk based on accumulated hits.
 
 Updated Display
 
-- ^ → Miss
+- ^→ Miss
 
-- O → Hit
+- O→ Hit
 
-- # → Ship
+- #→ Ship
 
-- ~ → Water
+- ~→ Water
 
 ## 🧪 **Testing**
 
